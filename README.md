@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Jesus GL</h1>
-<h3 align="center">Un programador de Arduino, C++ y futuro programador frontend</h3>
+<h3 align="center">Un programador frontend, C++ y Arduino</h3>
 
-- 🌱 I’m currently learning **Frontend**
+- 🌱 I’m currently learning **Backend**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
